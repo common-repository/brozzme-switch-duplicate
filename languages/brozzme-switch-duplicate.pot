@@ -1,0 +1,207 @@
+# Copyright (C) 2015 Brozzme Switch Duplicate
+# This file is distributed under the same license as the Brozzme Switch Duplicate package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Brozzme Switch Duplicate 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/brozzme-switch-duplicate\n"
+"POT-Creation-Date: 2017-03-02 09:24:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-02-01 11:20+UTC\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: brozzme_switch_duplicate.php:103
+msgid "Settings"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_duplicator.php:39
+msgid "No post to duplicate has been supplied!"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_duplicator.php:76
+msgid "Duplicated from "
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_duplicator.php:136
+msgid "Duplicate this item"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_duplicator.php:136
+msgid "Duplicate"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_duplicator.php:146
+msgid "Are you sure you want to duplicate this?"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_duplicator.php:148
+msgid "Duplicate in progress, you'll be redirect!"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:24
+#: includes/brozzme_switch_duplicate_settings.php:25
+msgid "Switcher & Duplicate"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:41
+msgid "General settings option for Brozzme Switch and Duplicate"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:48
+msgid "Enable whole plugin"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:55
+msgid "Enable post-type switcher"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:62
+msgid "Enable post duplicate"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:69
+msgid "Erase settings on plugin deletion"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:78
+msgid "Post types Switcher settings"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:85
+msgid "Enable switcher for Post type"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:92
+msgid "Add Post type column"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:101
+msgid "Post types Duplicate settings"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:107
+msgid "Duplicate post taxonomy"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:114
+msgid "Duplicate post custom fields"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:139
+msgid "General settings"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:140
+msgid "Switcher settings"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:141
+msgid "Duplicate settings"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:143
+msgid "Help"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:182
+#: includes/brozzme_switch_duplicate_settings.php:191
+#: includes/brozzme_switch_duplicate_settings.php:199
+#: includes/brozzme_switch_duplicate_settings.php:207
+#: includes/brozzme_switch_duplicate_settings.php:295
+#: includes/brozzme_switch_duplicate_settings.php:307
+#: includes/brozzme_switch_duplicate_settings.php:317
+msgid "Yes"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_settings.php:183
+#: includes/brozzme_switch_duplicate_settings.php:192
+#: includes/brozzme_switch_duplicate_settings.php:200
+#: includes/brozzme_switch_duplicate_settings.php:208
+#: includes/brozzme_switch_duplicate_settings.php:296
+#: includes/brozzme_switch_duplicate_settings.php:308
+#: includes/brozzme_switch_duplicate_settings.php:318
+msgid "No"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_switcher.php:93
+msgid "Post Type:"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_switcher.php:98
+msgid "Edit"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_switcher.php:113
+msgid "OK"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_switcher.php:114
+msgid "Cancel"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_switcher.php:130
+msgid "Type"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_switcher.php:162
+#: includes/brozzme_switch_duplicate_switcher.php:186
+msgid "Post Type"
+msgstr ""
+
+#: includes/brozzme_switch_duplicate_switcher.php:251
+msgid "&mdash; No Change &mdash;"
+msgstr ""
+
+#: includes/plugins_page.php:39
+msgid "About"
+msgstr ""
+
+#: includes/plugins_page.php:42
+msgid "More information"
+msgstr ""
+
+#: includes/plugins_page.php:43
+msgid "Development for the web: WordPress plugins, theming, Php front & back-end developper..."
+msgstr ""
+
+#: includes/plugins_page.php:44
+msgid "Contact slack: "
+msgstr ""
+
+#: includes/plugins_page.php:48
+msgid "Plugins developed by Brozzme."
+msgstr ""
+
+#: includes/plugins_page.php:50
+msgid "Brozzme plugins. A dedicated set of tools to the development phase."
+msgstr ""
+
+#: includes/plugins_page.php:71 includes/plugins_page.php:94
+msgid "[Latest version]"
+msgstr ""
+
+#: includes/plugins_page.php:71 includes/plugins_page.php:94
+#: includes/plugins_page.php:115
+msgid "Plugin page"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Brozzme Switch Duplicate"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://brozzme.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Post type switcher and duplicate tools."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Benoti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://brozzme.com"
+msgstr ""
